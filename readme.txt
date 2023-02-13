@@ -1,7 +1,7 @@
 Assignment 1
 
 
-- 
+- View the website at - https://deweshsoc.github.io/Assignments/
 
 - replicate the website by looking at the output.
 - do not try to view the page source. That's cheating. 
